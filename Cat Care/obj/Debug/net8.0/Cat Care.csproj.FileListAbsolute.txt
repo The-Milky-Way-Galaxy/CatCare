@@ -1,0 +1,14 @@
+C:\Users\siphu\OneDrive\Desktop\Cat Care\bin\Debug\net8.0\Cat Care.exe
+C:\Users\siphu\OneDrive\Desktop\Cat Care\bin\Debug\net8.0\Cat Care.deps.json
+C:\Users\siphu\OneDrive\Desktop\Cat Care\bin\Debug\net8.0\Cat Care.runtimeconfig.json
+C:\Users\siphu\OneDrive\Desktop\Cat Care\bin\Debug\net8.0\Cat Care.dll
+C:\Users\siphu\OneDrive\Desktop\Cat Care\bin\Debug\net8.0\Cat Care.pdb
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.AssemblyInfoInputs.cache
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.AssemblyInfo.cs
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.csproj.CoreCompileInputs.cache
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.dll
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\refint\Cat Care.dll
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.pdb
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\Cat Care.genruntimeconfig.cache
+C:\Users\siphu\OneDrive\Desktop\Cat Care\obj\Debug\net8.0\ref\Cat Care.dll
